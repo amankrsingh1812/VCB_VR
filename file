@@ -1,0 +1,2 @@
+python demo/python/porcupine_demo.py  --keyword_file_paths forward_linux.ppn 
+
